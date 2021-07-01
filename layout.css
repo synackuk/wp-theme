@@ -71,8 +71,7 @@ header h2 {
 }
 
 nav span h2 {
-	margin: 0.3rem;
-	margin-left: 0rem;
+	margin: 0 0.6rem 0 0;
 }
 
 dl, ol, p, table, ul {
@@ -81,10 +80,7 @@ dl, ol, p, table, ul {
 }
 
 nav span h2 a {
-	padding: 0.3rem;
-	padding-left: 0rem;
-	margin: 0.05rem;
-	margin-left: 0.05rem;
+	margin: 0 0.16rem 0 0;
 }
 
 .list_section_item {
